@@ -1,0 +1,29 @@
+.pld-public-preview-status-info {
+  margin-top: 8px;
+  display: grid;
+  gap: 1em;
+
+  > label {
+    max-width: 100%;
+  }
+}
+
+.pld-preview-url {
+  margin-top: 8px;
+  position: relative;
+}
+
+.pld-preview-url .components-text-control__input {
+  padding-right: 40px;
+}
+
+.pld-copy-btn {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}
+
+.pld-preview-description {
+  color: #757575;
+  margin: 8px 0 0 !important;
+}

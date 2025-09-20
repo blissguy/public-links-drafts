@@ -1,0 +1,12 @@
+# Node build artifacts
+node_modules/
+*.log
+
+# Editors
+.vscode/
+.DS_Store
+.idea/
+
+# WordPress build artifacts
+/vendor/
+*.zip
